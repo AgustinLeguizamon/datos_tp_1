@@ -10,6 +10,10 @@ Text(martin y fer):
  * Etiquetas?
  * Palabras iguales
  * Largo promedio de palabras (???)
+ * Buscar tweets con fecha
+ * Buscar tweets con Horario
+ * Buscar tweets con urls
+ * Usar otras keywords (Confirmed/Detected/etc)
  
 
 Keyword(agustin)
