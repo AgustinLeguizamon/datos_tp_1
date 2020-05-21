@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Introducción}{3}%
+\contentsline {subsection}{\numberline {1.1}Objetivos}{3}%
+\contentsline {subsection}{\numberline {1.2}Set de datos}{3}%
+\contentsline {section}{\numberline {2}Análisis del set de datos}{4}%
+\contentsline {subsection}{\numberline {2.1}Análisis general}{4}%
+\contentsline {subsection}{\numberline {2.2}Análisis sobre el texto del tweet}{4}%
+\contentsline {subsubsection}{\numberline {2.2.1}Largo de los tweets}{4}%
+\contentsline {subsubsection}{\numberline {2.2.2}Largo de palabras}{4}%
+\contentsline {subsubsection}{\numberline {2.2.3}Palabras en común}{4}%
+\contentsline {subsubsection}{\numberline {2.2.4}Hashtags}{4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Etiquetas}{4}%
+\contentsline {subsubsection}{\numberline {2.2.6}Links}{4}%
+\contentsline {subsubsection}{\numberline {2.2.7}Fechas y horarios}{4}%
+\contentsline {subsection}{\numberline {2.3}Análisis sobre palabras clave}{4}%
+\contentsline {subsection}{\numberline {2.4}Análisis sobre la localización de los tweets}{4}%
+\contentsline {subsection}{\numberline {2.5}Otros Análisis}{4}%
+\contentsline {section}{\numberline {3}Conclusiones}{4}%
