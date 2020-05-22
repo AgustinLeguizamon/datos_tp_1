@@ -9,11 +9,11 @@ Text(martin y fer):
  * Tiene Hashtag vs no tiene
  * Etiquetas?
  * Palabras iguales
- * Largo promedio de palabras (???)
+ * Largo promedio de palabras 
  * Buscar tweets con fecha
  * Buscar tweets con Horario
  * Buscar tweets con urls
- * Usar otras keywords (Confirmed/Detected/etc)
+ * Buscar otras keywords (Confirmed/Detected/etc)
  
 
 Keyword(agustin)
